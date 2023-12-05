@@ -1,0 +1,94 @@
+{
+    "title":"Gulmohar",
+    "description":"The Batra family has decided to move out of their house of 34 years. With only four days left to shift, the drama escalates like never before.Amidst the chaos, insecurities, secrets and the bond that glues them together resurfaces",
+    "releaseDate":"2023-03-03",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202302/Gulmohar_1676039940.jpg?downsize=215:301",
+    "actors":["Manoj Bajpayee", "Sharmila Tagore", "Amol Palekar", "Suraj Sharma", "Kaveri Seth", "Nargis Nandal", "Tripti Sahu"]
+
+}
+{
+    "title":"Selfiee",
+    "description":"Selfiee is the Hindi remake of the 2019 Malayalam-language comedy Driving License that follows famous actor Prithviraj Sukumaran (Hareendran) who needs to renew his driver's license, and runs across a fan in the motor vehicle agent. A series of misunderstandings cause many a problem.",
+    "releaseDate":"2023-02-24",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/Selfiee_1674473988.jpg?downsize=215:301",
+    "actors":["Akshay Kumar","Emraan Hashmi", "Nushrratt Bharuccha", "Diana Penty"]
+}
+{
+    "title":"Shehzada",
+    "description":"Bantu (Kartik Aaryan) is a young man with a scornful father who is critical of everything he does. His world is turned upside down when he learns that he is the son of a millionaire, but was switched with another at birth. The film is an official remake of the hit Telugu film Ala Vaikunthapurramuloo.",
+    "releaseDate":"2023-02-17",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202302/Shehzada_1676463098.jpg?downsize=215:301",
+    "actors":["Kartik Aaryan", "Kriti Sanon", "Manisha Koirala", "Paresh Rawal", "Ronit Roy", "Ankur Rathee"]
+}
+{
+    "title":"Lost",
+    "description":"When a young theater activist suddenly goes missing, crime reporter Vidhi (Yami Gautam) tries to uncover the truth behind his disappearance.",
+    "releaseDate":"2023-02-16",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/lost_1675146850.jpg?downsize=215:301",
+    "actors":["Yami Gautam", "Pankaj Kapur", "Rahul Khanna","Neil Bhoopalam", "Pia Bajpiee", "Tushar Pandey"]
+}
+{
+    "title":"The Broken Table",
+    "description":"A tumultuous day in the life of aspiring psychologist Deepti (Rasika Dugal), who fundamentally questions her beliefs when she goes to take care of Giri (Naseeruddin Shah), a 60-year-old Alzheimer's patient.",
+    "releaseDate":"2023-02-15",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202302/The-Broken-Table-Poster_1676628599.jpg?downsize=215:301",
+    "actors":["Naseeruddin Shah", "Manyuu Doshi", "Rasika Dugal", "Ishan Kunte", "Gauri Nalawade", "Ajit Ranjan"]
+}
+{
+    "title":"Shiv Shastri Balboa",
+    "description":"Revolves around retiree Shiv Shastri (Anupam Kher) from India, who moves to US and ends up on an unlikely road trip through America's heartland.",
+    "releaseDate":"2023-02-10",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/Shiv-Shastri-Balboa_1674737458.jpg?downsize=215:301",
+    "actors":["Anupam Kher", "Nargis Fakhri", "Sharib Hashmi", "Jugal Hansraj","Neena Gupta"]
+}
+{
+    "title":"Gandhi Godse Ek Yudh",
+    "description":"Gandhi Godse Ek Yudh is set in a fictional world where Mahatma Gandhi survives the attack and later meets Nathuram Godse in prison, where the conversation leads to a fiery debate between them.",
+    "releaseDate":"2023-01-26",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/gandhigodse_1673244612.jpg?downsize=215:301",
+    "actors":["Deepak Antani", "Chinmay Mandlekar", "Tanisha Santoshi", "Anuj Saini"]
+}
+{
+    "title":"Pathaan",
+    "description":"As a freelance terrorist tightens his belts for a mission that threatens natural security, a RAW agent called Feroz Pathaan decides to nip it in the bud.",
+    "releaseDate":"2023-01-25",
+    "posterUrl":"https://www.gadgets360.com/entertainment/pathaan-movie-106853",
+    "actors":["ShahRukh Khan", "Deepika Padukone", "John Abraham", "Dimple Kapadia"]
+}
+{
+    "title":"Kuttey",
+    "description":"On a rainy night in the outskirts of Mumbai, three stray gangs cross paths during a bloody chase of a van carrying crores in cash. A blended cocktail of bloodshed, betrayal, and violence follow.",
+    "releaseDate":"2023-01-13",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/Kuttey_1672901898.jpg?downsize=215:301",
+    "actors":["Arjun Kapoor", "Tabu", "Naseeruddin Shah", "Konkona Sen Sharma", "Radhika Madan"]
+}
+{
+    "title":"Mission Majnu",
+    "description":"The spy thriller will deliver an untold story of India's most fearless and daring covert operation that was conducted in the heart of Pakistan.",
+    "releaseDate":"2023-01-20",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/mission_majnu_poster_1674045122.jpg?downsize=215:301",
+    "actors":["Rashmika Mandanna", "Sidharth Malhotra", "Kumud Mishra", "Sharib Hashmi"]
+}
+{
+    "title":"Lakadbaggha",
+    "description":"When martial arts teacher Arjun Bakshi (Anshuman Jha) comes across a crazy rogue agency selling animals in Kolkata port, he tries to rescue the animals from them.",
+    "releaseDate":"2023-01-13",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202301/Lakadbaggha_1673270296.jpg?downsize=215:301",
+    "actors":["Anshuman Jha", "Riddhi Dogra", "Paresh Pahuja", "Bijou Thaangjam"]
+}
+{
+    "title":"Cirkus",
+    "description":"After finding two sets of identical twins Roy and Current Man (Ranveer Singh) on the doorstep of his orphanage, Dr. Roy Jamnadas (Uday Tikekar) gives them up for adoption to two different families in two different cities. Years later, a comedy of errors ensues when one set of twins decide to visit the city where the other set of twins run a circus.",
+    "releaseDate":"2022-12-23",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202212/Cirkus_1671450834.jpg?downsize=215:301",
+    "actors":["Ranveer Singh", "Pooja Hegde", "Johny Lever", "Jacqueline Fernandez"]
+}
+{
+    "title":"Govinda Naam Mera",
+    "description":"The very charming Govinda Waghmare (Vicky Kaushal) juggles his time and love between his wife Mrs. Waghmare (Bhumi Pednekar) and his girlfriend (Kiara Advani) in this dose of chaos, confusion, and laughter.",
+    "releaseDate":"2022-12-16",
+    "posterUrl":"https://assets.gadgets360cdn.com/pricee/assets/product/202212/Govinda-Naam-Mera_1671185143.jpg?downsize=215:301",
+    "actors":["Vicky Kaushal", "Bhumi Pednekar", "Kiara Advani", "Deependra Singh", "Dayanand Shetty", "Sayaji Shinde"]
+}
+
+https://english.cdn.zeenews.com/sites/default/files/2023/01/24/1145160-pathaan-leaked-srk-1.jpg
